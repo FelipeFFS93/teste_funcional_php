@@ -6,6 +6,4 @@
  *Laravel*
  *Mysql* <br/>
  
- :computer: 
- npm init -y /  yarn init --yes/-y <br/>  
- npm install /  yarn install <br/> 
+
